@@ -7,13 +7,9 @@
 Esse projeto trata-se de uma Landing Page para uma clínica fictícia de cuidados de animais domésticos chamada "Pets".
 O projeto está responsivo e para desenvolver eu utilizei: HTML, CSS, JS e SCSS.
 
-## 🖥️ Demonstração
-
-![](/resultado/pets.png)
-
 ## 🔗 Link da página
 
-https://tsb-pets.netlify.app/
+https://clinica-pets.vercel.app/
 
 ## 👨‍💻 Tecnologias Utilizadas
 
